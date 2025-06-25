@@ -2,8 +2,9 @@
 title: The Future of AI-Powered Workflows
 slug: future-of-ai-powered-workflows
 date: 2025-06-25
-author: Laurin McNulty
-authorPhoto: https://cdn.pieces.app/laurin-headshot.jpg
+author: The Pieces Team
+authorPhoto: authorPhoto: https://storage.googleapis.com/pieces_multimedia/BLOG/AUTHOR_PHOTOS/pieces.png
+authorPhotoAlt: Pieces logo
 authorPhotoAlt: Portrait of Laurin McNulty
 featured: true
 editorsPick: true
